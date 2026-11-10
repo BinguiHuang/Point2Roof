@@ -1,4 +1,6 @@
 # Point2Roof
+
+📖 [中文复现教程](docs/REPRODUCE_zh-CN.md)：环境配置、数据准备、官方权重测试、从头训练与源码问题排查。包含验证范围说明。
 This is the PyToch implementation of the following manuscript:
 > Point2Roof: End-to-end 3D building roof modeling from airborne LiDAR point clouds
 >
